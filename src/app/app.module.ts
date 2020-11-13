@@ -13,6 +13,8 @@ import { BannerWrappComponent } from './componnets/master-page/banner-wrapp/bann
 import { TabsComponent } from './componnets/master-page/tabs/tabs.component';
 import { NewsletterComponent } from './components/master-page/newsletter/newsletter.component';
 import { BlogWraapComponent } from './components/master-page/blog-wraap/blog-wraap.component';
+import { AboutComponent } from './components/about/about.component';
+import { NotFoundComponent } from './components/not-found/not-found.component';
 // import { NotFoundComponent } from './components/master-page/slider-top/NotFoundComponent';
 
 
@@ -29,6 +31,8 @@ import { BlogWraapComponent } from './components/master-page/blog-wraap/blog-wra
     TabsComponent,
     NewsletterComponent,
     BlogWraapComponent,
+    AboutComponent,
+    NotFoundComponent,
   ],
   imports: [
     BrowserModule,
