@@ -9,6 +9,10 @@ import { MasterPageComponent } from './modules/master-page/master-page.component
 import { FooterComponent } from './components/master-page/footer/footer.component';
 import { SliderTopComponent } from './components/master-page/slider-top/slider-top.component';
 import { MostSellComponent } from './components/master-page/most-sell/most-sell.component';
+import { BannerWrappComponent } from './componnets/master-page/banner-wrapp/banner-wrapp.component';
+import { TabsComponent } from './componnets/master-page/tabs/tabs.component';
+import { NewsletterComponent } from './components/master-page/newsletter/newsletter.component';
+import { BlogWraapComponent } from './components/master-page/blog-wraap/blog-wraap.component';
 // import { NotFoundComponent } from './components/master-page/slider-top/NotFoundComponent';
 
 
@@ -21,6 +25,10 @@ import { MostSellComponent } from './components/master-page/most-sell/most-sell.
     FooterComponent,
     SliderTopComponent,
     MostSellComponent,
+    BannerWrappComponent,
+    TabsComponent,
+    NewsletterComponent,
+    BlogWraapComponent,
   ],
   imports: [
     BrowserModule,
