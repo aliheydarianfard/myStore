@@ -9,6 +9,8 @@ import { MasterPageRoutingModule } from './master-page-routing.module';
   imports: [
     CommonModule,
     MasterPageRoutingModule
-  ]
+  ],
+  
 })
+
 export class MasterPageModule { }
