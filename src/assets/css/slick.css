@@ -85,7 +85,7 @@
 }
 .slick-initialized .slick-slide {
   display: block;
-  margin-bottom: -8%;
+ 
 }
 .slick-loading .slick-slide {
   visibility: hidden;
