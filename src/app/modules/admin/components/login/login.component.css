@@ -1,0 +1,12 @@
+#socialButtons{
+    height: 50px !important;
+}
+#socialButtons span{
+    margin-top: 5px !important;
+}
+#enter{
+    height: 40px !important;
+}
+#wellcome{
+    color: #475F7B;
+}
