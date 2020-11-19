@@ -1682,7 +1682,7 @@ table tr:last-child td, table tr:last-child th {
 	padding-left: 35px;
 }
 .block-search .icon-search::before {
-	content: url(../images/search-header.html);
+	/* content: url(../images/search-header.html); */
 	display: inline-block;
 	vertical-align: middle;
 }
@@ -7358,7 +7358,7 @@ body.vertical-menu-open .vertical-menu-overlay {
 	margin-bottom: 45px;
 }
 .slider-item.style20 .slider-inner {
-	background-image: url(../images/slider-thumb-full-5.html);
+	background-image: url(../images/slider-blog-thumb-5.jpg);
 }
 .slider-item.style20 .slider-inner .slider-infor {
 	padding-bottom: 154px;
